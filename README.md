@@ -4,7 +4,7 @@
  Guide til at sætte op til at benytte repo:
  
 - 1. Anmod om en API-nøgle via Rejseplanen Labs, ved at udfylde følgende formular: https://labs.rejseplanen.dk/hc/da/requests/new
- 
+
 - 2. Indsæt API-nøglen i en .env fil, filen skal formateres som sådan:
 > REJSEPLANEN_API_KEY="xxxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxx"
 
